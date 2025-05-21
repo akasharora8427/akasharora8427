@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## My Name is Akash Arora and I am a Data Analyst 
+
 <!--
 **akasharora8427/akasharora8427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
